@@ -1,0 +1,259 @@
+[
+  {
+    "tag": "医学 × 芯片",
+    "rows": [
+      {
+        "target": 15,
+        "before": [],
+        "after": [],
+        "mass_after": 0.0
+      },
+      {
+        "target": 25,
+        "before": [],
+        "after": [],
+        "mass_after": 0.0
+      },
+      {
+        "target": 40,
+        "before": [],
+        "after": [],
+        "mass_after": 0.0
+      },
+      {
+        "target": 60,
+        "before": [],
+        "after": [],
+        "mass_after": 0.0
+      },
+      {
+        "target": 100,
+        "before": [
+          "卵",
+          "瓶",
+          "片",
+          "厂"
+        ],
+        "after": [
+          "芯",
+          "片",
+          "旁"
+        ],
+        "mass_after": 2.9166667461395264
+      }
+    ]
+  },
+  {
+    "tag": "野兽 × 金融",
+    "rows": [
+      {
+        "target": 15,
+        "before": [],
+        "after": [
+          "兹",
+          "弗",
+          "桑"
+        ],
+        "mass_after": 6.0
+      },
+      {
+        "target": 25,
+        "before": [],
+        "after": [
+          "兹",
+          "弗",
+          "桑",
+          "栏"
+        ],
+        "mass_after": 7.0
+      },
+      {
+        "target": 40,
+        "before": [],
+        "after": [
+          "兹",
+          "弗",
+          "桑",
+          "栏"
+        ],
+        "mass_after": 7.0
+      },
+      {
+        "target": 60,
+        "before": [
+          "兹",
+          "利"
+        ],
+        "after": [
+          "兹",
+          "弗",
+          "桑",
+          "栏",
+          "银"
+        ],
+        "mass_after": 7.0
+      },
+      {
+        "target": 100,
+        "before": [
+          "兹",
+          "弗",
+          "利"
+        ],
+        "after": [
+          "兹",
+          "弗",
+          "桑",
+          "栏",
+          "川",
+          "银",
+          "存"
+        ],
+        "mass_after": 8.0
+      }
+    ]
+  },
+  {
+    "tag": "天体 × 水果",
+    "rows": [
+      {
+        "target": 15,
+        "before": [],
+        "after": [
+          "蔬"
+        ],
+        "mass_after": 1.0
+      },
+      {
+        "target": 25,
+        "before": [
+          "皮"
+        ],
+        "after": [
+          "蔬",
+          "苹"
+        ],
+        "mass_after": 2.0
+      },
+      {
+        "target": 40,
+        "before": [],
+        "after": [
+          "蔬",
+          "苹"
+        ],
+        "mass_after": 2.0
+      },
+      {
+        "target": 60,
+        "before": [],
+        "after": [
+          "蔬",
+          "苹"
+        ],
+        "mass_after": 2.0
+      },
+      {
+        "target": 100,
+        "before": [],
+        "after": [
+          "苹",
+          "蔬"
+        ],
+        "mass_after": 2.0
+      }
+    ]
+  },
+  {
+    "tag": "机器 × 文学",
+    "rows": [
+      {
+        "target": 15,
+        "before": [],
+        "after": [],
+        "mass_after": 2.8333334922790527
+      },
+      {
+        "target": 25,
+        "before": [],
+        "after": [],
+        "mass_after": 2.8333334922790527
+      },
+      {
+        "target": 40,
+        "before": [],
+        "after": [],
+        "mass_after": 3.8333334922790527
+      },
+      {
+        "target": 60,
+        "before": [
+          "集",
+          "刊",
+          "派"
+        ],
+        "after": [
+          "章"
+        ],
+        "mass_after": 3.8333334922790527
+      },
+      {
+        "target": 100,
+        "before": [
+          "曼"
+        ],
+        "after": [
+          "章",
+          "集"
+        ],
+        "mass_after": 3.8333334922790527
+      }
+    ]
+  },
+  {
+    "tag": "医院 × 战争",
+    "rows": [
+      {
+        "target": 15,
+        "before": [],
+        "after": [],
+        "mass_after": 0.0
+      },
+      {
+        "target": 25,
+        "before": [],
+        "after": [],
+        "mass_after": 5.833333492279053
+      },
+      {
+        "target": 40,
+        "before": [],
+        "after": [
+          "顿"
+        ],
+        "mass_after": 5.833333492279053
+      },
+      {
+        "target": 60,
+        "before": [],
+        "after": [
+          "顿",
+          "争"
+        ],
+        "mass_after": 5.833333492279053
+      },
+      {
+        "target": 100,
+        "before": [],
+        "after": [
+          "顿",
+          "争",
+          "战",
+          "队",
+          "马"
+        ],
+        "mass_after": 6.833333492279053
+      }
+    ]
+  }
+]
